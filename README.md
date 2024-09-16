@@ -4,10 +4,10 @@
 September 16th 2024
 
 ### Project Title
-Replace the Project Title
+Git Commands Documentation
 
 ### Description
-Describe what your project is about and what it does
+Git Commands Documentation
 
 ### Files used
 Include the files used
